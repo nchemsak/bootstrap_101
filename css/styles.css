@@ -1,0 +1,19 @@
+.row {
+	border: 1px solid black;
+	margin: 10px 0;
+}
+
+.bro {
+	background-color: red;
+	margin-right: 4px;
+}
+
+.col-md-8 {
+	background-color: lightblue;
+}
+
+.col-sm-1 {
+	background-color: grey;
+	margin: 0 2px;
+}
+
